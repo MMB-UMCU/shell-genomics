@@ -4,12 +4,11 @@ title: grouping
 ---
 
 
-I can, with confidence, explain to my neighbor what the 
+I can, with confidence, explain to my neighbor what the following command does.
 ~~~
-grep -B1 -A2 NNNNNNN SRR098026.fastq' 
+grep -B1 -A2 NNNNNNN SRR098026.fastq
 ~~~
 {: .bash}
-command does.
 
 
 Click on the answer that applies to you.
