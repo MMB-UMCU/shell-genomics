@@ -18,7 +18,7 @@ title: grouping
 
 
 
-Please answer the following question and click on the answer that applies to you.
+Please answer the question above and click on the statement that applies to you.
 
 [I am sure my answer (1., 2., 3. or 4.) is correct.](./groups2)
 
