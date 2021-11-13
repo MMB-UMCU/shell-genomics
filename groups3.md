@@ -9,8 +9,7 @@ and would like to contribute to Open Science collaborative development of lesson
 Click on the answer that applies to you.
 
 
-[No](http://mmb-umcu.github.io/shell-genomics/groups5/)
+[No](./groups5/)
 
 
-
-[Yes](http://mmb-umcu.github.io/shell-genomics/groups6/)
+[Yes](./groups6/)
