@@ -1,3 +1,9 @@
+---
+layout: page
+title: groups-1
+---
+
+
 > ## Relative path resolution
 > 
 > Using the filesystem diagram below, if `pwd` displays `/Users/thing`,
