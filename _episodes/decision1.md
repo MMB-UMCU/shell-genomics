@@ -1,6 +1,6 @@
 ---
 layout: page
-title: groups-1
+title: groups
 ---
 
 
