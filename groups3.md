@@ -9,8 +9,8 @@ and would like to contribute to Open Science collaborative development of lesson
 Click on the answer that applies to you.
 
 
-[No](http://www.datacarpentry.org/shell-genomics/groups5/)
+[No](http://www.mmb-umcu.org/shell-genomics/groups5/)
 
 
 
-[Yes](http://www.datacarpentry.org/shell-genomics/groups6/)
+[Yes](http://www.mmb-umcu.org/shell-genomics/groups6/)
