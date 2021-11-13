@@ -14,6 +14,6 @@ command does.
 
 Click on the answer that applies to you.
 
-[Yes](http://www.mmb-umcu.org/shell-genomics/groups3/)
+[Yes](http://mmb-umcu.github.io/shell-genomics/groups3/)
 
-[No, I can't explain or I don’t know what the command does](http://www.mmb-umcu.org/shell-genomics/groups4/)
+[No, I can't explain or I don’t know what the command does](http://mmb-umcu.github.io/shell-genomics/groups4/)
