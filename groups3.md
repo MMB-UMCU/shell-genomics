@@ -9,7 +9,7 @@ and would like to contribute to Open Science collaborative development of lesson
 Click on the answer that applies to you.
 
 
-[No](./groups5/)
+[No](./groups5)
 
 
-[Yes](./groups6/)
+[Yes](./groups6)
