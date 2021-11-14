@@ -22,6 +22,6 @@ Please answer the question above and click on the statement that applies to you.
 
 [I am sure my answer (1., 2., 3. or 4.) is correct.](./groups2)
 
-[I am not sure my answer is correct](./groups2)
+[I am doubting if my answer is correct](./groups4)
 
 [I don’t know the answer](./groups4)
